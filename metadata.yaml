@@ -1,0 +1,51 @@
+_repo: Sir-Jasper-Carew--His-Life-and-Experience_33081
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Browne, Hablot Knight
+    aliases:
+    - Brown, Hablot K. (Hablot Knight)
+    - Browne, Hablot K. (Hablot Knight)
+    - Phiz
+    - Browne, H. K. (Hablot Knight)
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '24934'
+    url: http://www.gutenberg.org/2009/agents/24934
+    wikipedia: http://en.wikipedia.org/wiki/Hablot_Knight_Browne
+  - agent_name: Muyden, Evert van
+    aliases:
+    - Van Muyden, Evert
+    - Muyden, E. Van
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '36194'
+    url: http://www.gutenberg.org/2009/agents/36194
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lever, Charles James
+    aliases:
+    - O'Dowd, Cornelius
+    - Lorrequer, Harry
+    birthdate: 1806
+    deathdate: 1872
+    gutenberg_agent_id: '1744'
+    url: http://www.gutenberg.org/2009/agents/1744
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
+description: ''
+gutenberg_issued: '2010-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'Sir Jasper Carew: His Life and Experience'
+url: http://www.gutenberg.org/ebooks/33081
